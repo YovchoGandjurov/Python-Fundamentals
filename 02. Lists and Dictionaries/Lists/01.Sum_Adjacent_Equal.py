@@ -12,5 +12,6 @@ while flag == 1:
             n.pop(index+1)
             flag = 1
 
+
 n = ['{0:g}'.format(x) for x in n]
 print(n)
